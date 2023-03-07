@@ -4,7 +4,7 @@
 - Color palette for each unit category
 - Responsive design for portrait and landscape modes
 - No third party libraries were used
-- There is seven categories to to choose and more than 5 units for each category to convert
+- There is seven categories to choose from and more than 5 units for each category to convert into
 
 ## App Screenshots
 
