@@ -6,11 +6,15 @@
 - No third party libraries were used
 - There is seven categories to to choose and more than 5 units for each category to convert
 
+</br>
+
 ## App Screenshots
 
 | Main Page | Unit Page |
-| :-------: | :-------: |
-| <img src="assets/show/screenshot_main_screen.png" alt="Main Screen"/> | <img src="assets/show/screenshot_unit_screen.png" alt="Unit Screen"/> |
----
+| :-: | :-: |
+<img src="show/screenshot_main_screen.png" alt="Main Screen"/> | <img src="show/screenshot_unit_screen.png" alt="Unit Screen"/>
 
+</br>
+
+---
 `Finished on 07-Mar-23`
